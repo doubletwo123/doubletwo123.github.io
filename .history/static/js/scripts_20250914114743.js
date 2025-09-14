@@ -1,17 +1,8 @@
-/*
- * @Descripttion: 
- * @Author: Yujia Chen
- * @version: 
- * @Date: 2025-09-14 10:44:13
- * @LastEditors: Yujia Chen
- * @LastEditTime: 2025-09-14 11:47:46
- * @FilePath: \doubletwo123.github.io\static\js\scripts.js
- */
 
 
 const content_dir = 'contents/'
 const config_file = 'config.yml'
-const section_names = ['home', 'publications', 'awards']
+const section_names = ['home', 'publications', 'awards','']
 
 
 window.addEventListener('DOMContentLoaded', event => {
